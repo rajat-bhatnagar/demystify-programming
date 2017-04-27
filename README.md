@@ -9,5 +9,6 @@ Code for programming puzzles
 > - Solution to programming puzzles will be written in either Java v8,v7 or Groovy v2.4.4
 
 Code Samples :
+ - FizzBuzz
  - Rotate an Array
  - Implement a Dictionary In Java for three letter words
