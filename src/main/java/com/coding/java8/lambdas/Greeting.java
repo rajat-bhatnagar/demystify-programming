@@ -1,4 +1,4 @@
-package com.coding.java8.lamdas;
+package com.coding.java8.lambdas;
 
 public interface Greeting {
 
