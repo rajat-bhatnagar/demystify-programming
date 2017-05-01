@@ -1,4 +1,4 @@
-package com.coding.java8.businesslogic.impl;
+package com.coding.java8.lamdas;
 
 import java.util.Arrays;
 import java.util.List;

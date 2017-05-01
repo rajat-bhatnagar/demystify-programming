@@ -1,4 +1,4 @@
-package com.coding.java8.businesslogic;
+package com.coding.java8.lamdas;
 
 public interface DefaultsInterfaceDemo {
 
