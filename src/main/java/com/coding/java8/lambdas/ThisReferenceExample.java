@@ -29,6 +29,11 @@ public class ThisReferenceExample {
         });
     }
 
+
+    @Override
+    public String toString() {
+        return "This is a ThisReferenceExample class instance";
+    }
 }
 
 interface Process {
