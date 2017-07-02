@@ -28,6 +28,5 @@ public class ReductionTerminalOperation {
         //find sum
         int sum = numbers.stream().reduce(0, (x,y) -> x+y);
         System.out.println("# Sum # "+sum);
-
     }
 }
