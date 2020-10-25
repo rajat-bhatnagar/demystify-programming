@@ -1,5 +1,6 @@
 package com.coding
 
+import com.coding.businesslogic.MaxNumber
 import spock.lang.Specification
 
 class MaxNumberSpec extends Specification {
